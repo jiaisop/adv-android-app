@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ADV</string>
+    <string name="automatic_control">Automatic Control</string>
+    <string name="manual_control">Manual Control</string>
+    <string name="check_camera">Check Camera</string>
+    <string name="enter_data">Service Map</string>
+    <string name="connect_device">Connect to ADV</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="manual_forward">Forward</string>
+    <string name="manual_backward">Backward</string>
+    <string name="manual_left">Left</string>
+    <string name="manual_right">Right</string>
+    <string name="manual_stop">Stop</string>
+    <string name="manual_to_main">Main Menu</string>
+    <string name="ip_hint">IP Address</string>
+    <string name="port_hint">Port</string>
+    <string name="lift_up">Lift Up</string>
+    <string name="lift_halt">Lift Stop</string>
+    <string name="lift_down">Lift Down</string>
+    <string name="cameraSettings">Setting</string>
+</resources>
